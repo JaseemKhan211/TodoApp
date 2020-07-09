@@ -6,3 +6,6 @@ The Todo-App my Web Developement Course Assignment.
 - Css3
 - Advanced Javascript ES6
 
+###View
+Full project in ths link here : https://jaseemkhan211.github.io/TodoApp/
+Hope you like it...

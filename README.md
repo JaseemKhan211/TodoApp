@@ -1,5 +1,5 @@
 # TodoApp
-The Todo-App my Web Developement Course Assignment.
+The Todo-App my Web Developement Course Assignment
 
 ### Bulid With
 - Html5
